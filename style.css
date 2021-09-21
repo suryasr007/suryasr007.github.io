@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body {
+		font-family: 'Lato';
+}
+
+.navbar {
+	background-color: #384459;
+}
+
+.navbar p {
+	font-size: 18px;
+}
+
+.contact {
+	background-color: #2b343f;
+}
+
+.contact p {
+	font-size: 17px;
+}
+
+li {
+	color: #595959;
+	font-size: 17px;
+	line-height: 1.8;
+}
